@@ -1,16 +1,4 @@
 {
-    "logo": {
-        "url": "/images/Copy_of_Copy_of_Untitled_Design_20250414_143848_0000.png",
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
             "label": "Scripts",
